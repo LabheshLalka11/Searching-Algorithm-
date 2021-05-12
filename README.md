@@ -1,3 +1,3 @@
 # Searching-Algorithm-Python
 
-This Repository Consist of Searching Algorithms programmed in Python Language.
+This Repository Contains Various Searching Algorithms programmed in Python Language.
